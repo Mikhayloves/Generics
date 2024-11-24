@@ -1,6 +1,6 @@
-package org.sberuniversity.countmapImpl;
+package org.sberuniversity.CountMapImpl;
 
-import org.sberuniversity.countmap.CountMap;
+import org.sberuniversity.CountMap.CountMap;
 
 import java.util.HashMap;
 import java.util.Map;

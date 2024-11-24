@@ -1,7 +1,7 @@
 package org.sberuniversity;
 
-import org.sberuniversity.countmap.CountMap;
-import org.sberuniversity.countmapImpl.CountMapImpl;
+import org.sberuniversity.CountMap.CountMap;
+import org.sberuniversity.CountMapImpl.CountMapImpl;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package org.sberuniversity.countmap;
+package org.sberuniversity.CountMap;
 
 import java.util.Map;
 
